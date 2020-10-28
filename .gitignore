@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/config_rm.py
+/*.ods
+/*.ods#
+/.idea
+
+config_rm2.py
+
+/config_rm.orig.py
+/config_tb.py
+/cfg_src_rm.py
+/cfg_dst_rm.py
+

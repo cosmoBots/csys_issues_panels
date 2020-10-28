@@ -1,0 +1,6 @@
+# This section configures the connection between the Datalogger tools and the Redmine instance which implements the requirements database
+server_url = 'http://req.cosmobots.eu:3001'	# The Redmine URL
+api_key = 'yourapikey'			# The API key of the user (or bot) in which name the actions are undertaken.
+ignore_cert = False  # Set to true if you want to avoid certificate checking
+# Project specific settings
+project_id = 'source-prj'		# The ID of the Redmine project to use with the python tools
